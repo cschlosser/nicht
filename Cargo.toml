@@ -1,0 +1,16 @@
+[package]
+name = "nicht"
+version = "1.0.0"
+edition = "2021"
+authors = ["Christoph Schlosser <christoph@linux.com>"]
+license = "MPL-2.0"
+description = "A more natural not"
+homepage = "https://github.com/cschlosser/nicht"
+repository = "https://github.com/cschlosser/nicht"
+readme = "README.md"
+keywords = ["not", "bool", "negate"]
+documentation = "https://docs.rs/nicht/1.0.0/nicht/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
